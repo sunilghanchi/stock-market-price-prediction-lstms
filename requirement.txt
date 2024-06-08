@@ -1,6 +1,8 @@
-streamlit
+pandas_datareader 
+yfinance 
 tensorflow
 keras
 pandas
 numpy
-pickle
+matplotlib
+sklearn
